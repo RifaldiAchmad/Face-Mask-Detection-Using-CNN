@@ -72,7 +72,7 @@ Model berhasil mencapai akurasi yang sangat tinggi, menunjukkan kemampuannya unt
 ---
 
 <details>
-<summary>🇬🇧 **Click here for English Version**</summary>
+<summary>🇬🇧 # CLICK HERE FOR ENGLISH VERSION #</summary>
 
 # Face Mask Detection with Convolutional Neural Network (CNN)
 
